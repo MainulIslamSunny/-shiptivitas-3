@@ -1,0 +1,20 @@
+Idea 1: Visual Progress Indicators
+Hypothesis: Adding a progress bar to the top of the board showing the percentage of "Complete" tasks will create a sense of accomplishment and encourage users to log in daily to "close" the bar.
+
+Expected Impact: 10% increase in DAU and a higher rate of cards moving to the "Complete" lane.
+
+Feature: A "Daily Shipping Goal" progress bar that resets every 24 hours, visualizing the team's collective throughput.
+
+Idea 2: In-App Collaborative Comments
+Hypothesis: If freight managers can tag each other on specific shipping cards, the platform becomes a communication hub, requiring users to log in to respond to mentions.
+
+Expected Impact: 20% increase in session duration and a significant lift in DAU through notification-driven logins.
+
+Feature: A "Comments" section inside the card modal with @mention capabilities and real-time push notifications.
+
+Idea 3: Smart "Stagnant Task" Alerts
+Hypothesis: Users often lose track of tasks stuck in the "In Progress" lane. Proactive alerts will bring users back to the app to resolve bottlenecks.
+
+Expected Impact: 12% increase in status changes and improved task completion speed.
+
+Feature: An automated system that highlights cards in Red if they haven't moved lanes in 48 hours, coupled with an morning summary email.
